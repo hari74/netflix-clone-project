@@ -1,4 +1,4 @@
-# netflix-clone-shapeai-bootcamp
+# netflix-clone--bootcamp
 
 This repo is part of the YouTube Bootcamp. 
 [Here's the bootcamp](https://www.youtube.com/watch?v=Gy3gd2pB1Xc)
